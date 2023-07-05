@@ -109,18 +109,6 @@ die();
     <a href="">
     <img src="images/term.png" class="img-fluid" alt="Responsive image">
     </a>
-    <p><h4>Terms & Condition</h4>
-    </div>
-    <div class="col-sm col-md-2 col-lg-3 mt-3 text-center">
-    <a href="">
-    <img src="images/pengumuman.png" class="img-fluid" alt="Responsive image">
-    </a>
-    <p><h4>Pengumuman</h4>
-    </div>
-    <div class="col-sm col-md-2 col-lg-3 mt-3 text-center">
-    <a href="keluar.php">
-    <img src="images/logout.png" class="img-fluid" alt="Responsive image">
-    </a>
     <p><h4>Log Out</h4>
     </div>
 </div>
