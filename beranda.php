@@ -106,7 +106,7 @@ die();
     <p><h4>Profil</h4>
     </div>
     <div class="col-sm col-md-2 col-lg-3 mt-3 text-center">
-    <a href="">
+    <a href="index.php">
     <img src="images/term.png" class="img-fluid" alt="Responsive image">
     </a>
     <p><h4>Log Out</h4>
